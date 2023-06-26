@@ -7,4 +7,4 @@ Python, Jupyter Notebook, pandas, numpy, matplotlib, sci-kit learn, scipy, seabo
 
 **Report**
 
-[embed][report.pdf](https://github.com/deepparekh02/quantitative-finance-analysis/files/11863201/report.pdf)[/embed]
+[embed]https://github.com/deepparekh02/quantitative-finance-analysis/files/11863201/report.pdf[/embed]
