@@ -5,4 +5,5 @@ This repo performs an analysis of top energy and tech stocks in North America to
 **Technologies and Libraries**  
 Python, Jupyter Notebook, pandas, numpy, matplotlib, sci-kit learn, scipy, seaborn, yfinance, statsmodels.
 
-**Snippets**
+**Report**
+[report.pdf](https://github.com/deepparekh02/quantitative-finance-analysis/files/11863191/report.pdf)
