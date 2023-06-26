@@ -1,8 +1,9 @@
-# quantitative-finance-analysis  
-**Description**  
+# Quantitative Finance Analysis
+
+**DESCRIPTION**  
 This repo performs an analysis of top energy and tech stocks in North America to devise a low-risk portfolio using minimum variance.
 
-**Technologies and Libraries**  
+**TECHNOLOGIES AND LIBRARIES**  
 Python, Jupyter Notebook, pandas, numpy, matplotlib, sci-kit learn, scipy, seaborn, yfinance, statsmodels.
 
 Read the short report below for a quick peek.  
